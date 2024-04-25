@@ -1,0 +1,7 @@
+20240424	22:18:14	3bd272b2-f05a-4d22-a7b0-92e32c28150e	GET	/	undefined
+20240424	22:18:14	a299a8ea-f43d-41f5-b448-e65b96992840	GET	/css/styles.css	undefined
+20240424	22:47:06	627dce22-7798-49bc-8e83-6714c25457fb	OPTIONS	/	https://www.google.com
+20240424	22:47:06	591e1092-8dbb-403b-b5b5-a84a4bff70d8	GET	/	https://www.google.com
+20240424	23:09:46	a4f299ed-04ff-4d2c-be38-1a33d40feeb6	OPTIONS	/	https://www.google.com
+20240424	23:09:47	fc4d3dfa-397e-4474-a0fd-c9fc483b6325	GET	/	https://www.google.com
+20240424	23:10:33	f23717fd-9215-463e-95c5-0d375f8caae9	GET	/	null
