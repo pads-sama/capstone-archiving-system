@@ -8,7 +8,7 @@
 7. - [ ] User can filter results based on location, date added, rating, etc.
 8. - [ ] User and admin can upload a capstone project.
 9. - [ ] Admin needs to approved the capstone uploaded by user before  it is visible to other users.
-10. - [ ] Upload form has title, author, supervisor(s), description, category, image upload, and link for the pdf copy.
+10. - [ ] Upload form has title, author, supervisor(s), description, category, image upload, and link for the pdf copy,status(approved, pending), year created, date uploaded, date updated.
 11. - [ ] Capstone should categorized by field of study(BSIT/BSCS).
 12. [ ] Use cookies to remember user information.
 13. [ ] Keep user logged in(if not logged out) for 24 hours then logout automatically after.
